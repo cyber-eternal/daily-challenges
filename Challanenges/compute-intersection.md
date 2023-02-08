@@ -1,4 +1,4 @@
-# Problem for 2023-05-02
+# Problem for 2023-02-05
 
 ## Given two arrays, write a function to compute their intersection - the intersection means the numbers that are in both arrays
 
